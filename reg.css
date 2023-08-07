@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black; 
+    height: 100px;
+    padding: 30px;  
+}
+h1{
+    color: white;
+}
+ul li{
+    display: inline;
+    color: rgb(255, 0, 0);
+    padding: 30px;
+}
+ul li a{
+    color: bisque;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#portfolio{
+    background-color: rgb(192, 219, 255);
+}
+footer{
+    background-color: black;
+    height: 35px;
+}
+footer p{
+   color: rgb(25, 173, 124);
+}
+#skills{
+    background-color: rgb(144, 202, 241);
+}
+body
+{
+    background:url('bg3.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
